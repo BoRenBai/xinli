@@ -6,3 +6,7 @@
 ![](https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2278874371,3682636674&fm=58)
 
 [visit 百度](www.baidu.com)
+姓名 | 专业
+-----|-----
+白博仁 | 应用心理学
+黄德军 | 软件工程
